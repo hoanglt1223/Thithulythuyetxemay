@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="uit.se114.thibanglaixemay.ViewDe">
+    <item
+        android:id="@+id/textViewthoigian"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Thời gian"
+        android:title="Thời Gian" />
+
+
+</menu>
